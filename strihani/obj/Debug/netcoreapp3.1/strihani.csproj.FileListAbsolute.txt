@@ -1,0 +1,13 @@
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.exe
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.deps.json
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.runtimeconfig.json
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.runtimeconfig.dev.json
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.dll
+C:\Users\cyril\source\repos\strihani\bin\Debug\netcoreapp3.1\strihani.pdb
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.csprojAssemblyReference.cache
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.AssemblyInfoInputs.cache
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.AssemblyInfo.cs
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.csproj.CoreCompileInputs.cache
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.dll
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.pdb
+C:\Users\cyril\source\repos\strihani\obj\Debug\netcoreapp3.1\strihani.genruntimeconfig.cache
