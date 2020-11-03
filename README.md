@@ -1,4 +1,4 @@
 # StrihaniHra
-Rock, Paper, Scissors
+Rock, Paper, Scissor
 
 Download the strihani.zip file
